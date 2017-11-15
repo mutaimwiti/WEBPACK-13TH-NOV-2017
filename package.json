@@ -1,0 +1,27 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "Code sample",
+  "main": "index.html",
+  "dependencies": {
+    "css-loader": "^0.28.7",
+    "style-loader": "^0.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mutaimwiti/WEBPACK-13TH-NOV-2017.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Mutai Mwiti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mutaimwiti/WEBPACK-13TH-NOV-2017/issues"
+  },
+  "homepage": "https://github.com/mutaimwiti/WEBPACK-13TH-NOV-2017#readme"
+}

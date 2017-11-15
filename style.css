@@ -1,3 +1,6 @@
+/*
+This css file is included on the webpack config and will be bundled
+ */
 body {
     background: darkcyan;
 }
